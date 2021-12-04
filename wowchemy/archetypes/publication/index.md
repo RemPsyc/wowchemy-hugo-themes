@@ -28,6 +28,10 @@ tags: []
 categories: []
 featured: false
 
+# Show publication and sharing statistics? (requires valid doi)
+# This only works for the compact view
+stats: true
+
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 # links:
